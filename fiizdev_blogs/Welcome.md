@@ -17,12 +17,8 @@ print("hello, world!")
 ```
 
 **test**
-*test*
-~~test~~
-==test
-$test$
-%% test %%
-test
+hello?
+my name is mohmad hafiz!
 
 [^1]
 
