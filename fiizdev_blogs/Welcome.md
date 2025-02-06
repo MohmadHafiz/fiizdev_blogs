@@ -35,6 +35,6 @@ testing image:
 > [!testNote!] idk
 > testing
 
-
+[here](http://google.com)
 
 [^1]: testing footnote?
