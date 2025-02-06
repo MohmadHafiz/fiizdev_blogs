@@ -19,7 +19,7 @@ print("hello, world!")
 **test**
 *test*
 ~~test~~
-==test==
+==test=
 $test$
 %% test %%
 test
@@ -35,6 +35,6 @@ testing image:
 > [!testNote!] idk
 > testing
 
-[here](http://google.com)
+[here](htt)
 
 [^1]: testing footnote?
