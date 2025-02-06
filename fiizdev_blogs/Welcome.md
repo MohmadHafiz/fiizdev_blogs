@@ -16,5 +16,25 @@ print("hello, world!")
 
 ```
 
+**test**
+*test*
+~~test~~
+==test==
+$test$
+%% test %%
+test
+
+[^1]
+
 testing image:
 ![[Pasted image 20250207010220.png]]
+
+---
+
+
+> [!testNote!] idk
+> testing
+
+
+
+[^1]: testing footnote?
