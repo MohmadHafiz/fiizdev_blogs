@@ -1,7 +1,7 @@
 ![[Pasted image 20250207211736.png]]
 
 
-I remember someone asked me how to hack, and how do i start hacking, previously in this blog [WHOAMI.dll](https://fiizdev.com/blog/post/WHOAMI.dll) i talked about my 9-10 years experience on what i did, hacking is not something for people that have limited knowledge in using computer like someone only been using their computer for watching movies, youtube, and using microsoft words. For me actually anyone can be hacker if they really love to explore on how stuff works and how you take advantage that stuff or exploit it. But in hacking there are a lot of stuff and a lot of things that you can explore, for example there's hacking in networking, hacking in software and hardware, hacking in communication, etc. for this journey I'll will guide you into how to start hacking.
+I remember someone asked me how to hack, and how do i start hacking, previously in this blog [WHOAMI.dll](https://fiizdev.com/blog/post/WHOAMI.dll) i talked about my 9-10 years experience on what i did, starting in hacking path is not something for people that have limited knowledge in using computer like someone only been using their computer for watching movies, youtube, and using microsoft words because you need to do practical stuff a lot like remembering what commands to enter, or what button to push. But for me actually anyone can be hacker if they really love to explore on how stuff works and how you take advantage that stuff or exploit it. But in hacking there are a lot of stuff and a lot of things that you can explore, for example there's hacking in networking, hacking in software and hardware, hacking in communication, etc. for this journey I'll will guide you into how to start hacking.
 
 ## Open CMD and simple command
 
