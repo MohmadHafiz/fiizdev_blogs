@@ -7,7 +7,7 @@ I remember someone asked me how to hack, and how do i start hacking, previously 
 
 What you need? well what you need is getting comfortable with CLI/Terminal/CMD, this stuff you gonna be use a lot. CLI/Terminal/CMD is software in most every devices such as computers, servers, mobile phone, WIFI router, etc. most tools for hacking are using Terminal for you to interact, Terminal is just a software that you enter a command and getting text output on the Terminal or command your computer to do some cool stuff, let's try this simple command if you are using windows:
 
-- first you need to run CMD, windows key + s key
+- first you need to run CMD, `WINDOWS key` + `S key`
 - then you type 'cmd'
 ![[Pasted image 20250207195823.png]]
 
