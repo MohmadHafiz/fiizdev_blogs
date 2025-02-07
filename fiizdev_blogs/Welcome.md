@@ -7,9 +7,9 @@ Date: 2/7/2025
 Welcome to my blogs?
 
 
-| h1  | h2  |
-| --- | --- |
-| c1  | c2  |
+| h1              | h2                  |
+| --------------- | ------------------- |
+| sjsjjasdjjjasfj | adfadasdasdasdafasd |
 ```python
 
 print("hello, world!")
