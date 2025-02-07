@@ -43,8 +43,6 @@ testing image:
 ![[Pasted image 20250207010220.png]]
 
 # HELLO, WORLD!
-
-
 ---
 
 
