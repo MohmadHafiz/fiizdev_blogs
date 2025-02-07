@@ -19,7 +19,10 @@ print("hello, world!")
 **test**
 hello?
 my name is mohmad hafiz!
-
+**test**
+*test*
+~~test~~
+==test==
 
 
 [^1]
