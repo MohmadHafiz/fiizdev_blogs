@@ -20,6 +20,8 @@ print("hello, world!")
 hello?
 my name is mohmad hafiz!
 
+
+
 [^1]
 
 testing image:
@@ -31,6 +33,6 @@ testing image:
 > [!testNote!] idk
 > testing
 
-[here](htt)
+[here](http://google.com)
 
 [^1]: testing footnote?
