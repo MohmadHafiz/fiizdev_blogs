@@ -15,12 +15,12 @@ print("hello, world!")
 ```
 
 **test**
-hello?
+- [ ] hello?
 my name is mohmad hafiz!
 - **test**
 - *test*
-- ~~test~~
-- ==test==
+1. ~~test~~
+2. ==test==
 
 
 [^1]
