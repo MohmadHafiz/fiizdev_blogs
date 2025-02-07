@@ -16,6 +16,11 @@ print("hello, world!")
 print("hello, world!")
 print("hello, world!")
 print("hello, world!")
+
+def testFunc():
+	print("hello, world!")
+
+testFunc()
 ```
 
 **test**
