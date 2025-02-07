@@ -17,4 +17,5 @@ that time when i ran the scanner it started output the results of vulnerable win
 
 after everything success and got **meterpreter** session on metasploit-framework, i started on looking inside the devices, fyi: i don't do damage to any of the system, what i did was hack it, post it on Instagram, and say im 1337 :D.. i was a teenage and stupid that time haha. so using metasploit-framework i learn how to pivot inside the network, routing, portforwarding, and sometimes i able to exploit another server inside the network by using pivot.
 
+
 so that all with the introduction and my experience with the hacking stuff, now i started to get into penetration tester path, i've been doing some testing on web app & mobile app so keep checking out my blog for some research, how to.. idk what else should i post :D
