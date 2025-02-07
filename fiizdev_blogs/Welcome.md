@@ -11,9 +11,7 @@ Welcome to my blogs?
 | --- | --- |
 | c1  | c2  |
 ```python
-
 print("hello, world!")
-
 ```
 
 **test**
