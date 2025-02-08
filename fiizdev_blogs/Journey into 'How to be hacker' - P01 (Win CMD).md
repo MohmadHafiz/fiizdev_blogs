@@ -78,4 +78,5 @@ type <filename>
 
 ## END :D
 
-Alright we are done here with the basic commands for CMD, i hope you learn some stuff using CMD, next blog we will escalate into next level using Linux, don't worry about that if you're using Windows 11/10 its easy to install 
+Alright we are done here with the basic commands for CMD, i hope you learn some stuff using CMD, next blog we will escalate into next level using Linux, don't worry about that if you're using Windows 11/10 its easy to install
+
