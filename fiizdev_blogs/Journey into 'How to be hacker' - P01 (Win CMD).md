@@ -1,7 +1,7 @@
 ![[Pasted image 20250207211736.png]]
 
 
-I remember someone asked me how to hack, and how do i start hacking, previously in this blog [WHOAMI.dll](https://fiizdev.com/blog/post/WHOAMI.dll) i talked about my 9-10 years experience on what i did, starting in hacking path is not something for people that have limited knowledge in using computer like someone only been using their computer for watching movies, youtube, and using microsoft words because you need to do practical stuff a lot like remembering what commands to enter, or what button to push. But for me actually anyone can be hacker if they really love to explore on how stuff works and how you take advantage that stuff or exploit it. But in hacking there are a lot of stuff and a lot of things that you can explore, for example there's hacking in networking, hacking in software and hardware, hacking in communication, etc. for this journey I'll will guide you into how to start hacking.
+I remember someone asked me how to hack, and how do i start hacking, previously in this blog [WHOAMI.dll](https://fiizdev.com/blog/post/WHOAMI.dll) i talked about my 9-10 years experience on what i did, starting in hacking path is not something for people that have limited knowledge in using computer like someone only been using their computer for watching movies, youtube, and using microsoft words because you need to do practical stuff a lot like remembering what commands to enter, or what button to push. For me actually anyone can be hacker if they really love into exploring on how stuff works and how you can take advantage of that stuff or exploit it. But in hacking there are a lot of stuff and a lot of things that you can explore into, for example there's hacking in networking, hacking in software and hardware, hacking in communication, etc. for this journey I'll be guiding you into how to start hacking.
 
 ## Open CMD and simple command
 
@@ -37,20 +37,26 @@ you just make your computer to say something! congrats!, so what that command do
 
 ## dir!
 
-so you wonder what 'C:\\Users\\zeus>' is? that is the location where you are right now inside your computer. 'C' is your SSD/HDD letter commonly C is the main storage, most software are installed/put inside this storage including your Operating System which is windows files. '\\Users\\zeus' is the location or folder. you can try type this command:
+so you wonder what 'C:\\Users\\zeus>' is? that is the location where you are right now inside your computer. 'C' is your SSD/HDD letter, usually C is the main storage, most software are installed/put inside this storage including your Operating System which is windows files. '\\Users\\zeus' is the location or folder. try type this command:
 ```cmd
 dir
 ```
 
 ![[Pasted image 20250207202821.png]]
 
-What you just type and see here is list down most of the stuff inside your current location, form the output of the command you can see 'drive C', 'Directory', dates, time and numbers. the 'drive C' shows your what drive are you currently on, 'Directory' also tells you where are you right now in the CMD, and dates, time, numbers are the stuff that you will make you dizzy to look at right now but it is ok don't worry about it.
+What you just type and see here is list down most of the stuff inside your current location, form the output of the command you can see 'drive C', 'Directory', dates, time and numbers. the 'drive C' shows you what drive are you currently on, 'Directory' also tells you where are you right now in the CMD, and dates, time, numbers are the stuff that you will make you dizzy to look at right now but it is ok don't worry about it.
 
 so the `<DIR>` that you see are telling you that is directory/folder, after `<DIR>` is the name of folder example '.android' or '.ssh', so the thing that does not have `<DIR>` is a file but it got numbering? and that is the size of the file, after the size of the file is the name of the file, so dates and time are just telling you what time and date this folder or files are modified or created. what is `.` and `..` ?...
 
+
+| Column 1              | Column 2              | Column3               | Column 4  | column 5         |
+| --------------------- | --------------------- | --------------------- | --------- | ---------------- |
+| Date modified/created | Time Modified/created | if `DIR` means folder | file size | file/folder name |
+
+
 ## Change DIR..
 
-Now you know how to list down stuff inside a folder, lets do navigation here i will explain what `.` and `..` are, when you navigate from folder to another folder usually you just click on it, here you just type, the command to navigate inside CMD is `cd` basically means 'change directory', lets navigate into your 'Desktop' folder, type this:
+Now you know how to list down stuff inside a folder, lets do navigation here i will explain what `.` and `..` are, when you navigate from folder to another folder usually you just click on it, here just type, the command to navigate inside CMD is `cd` basically means 'change directory', lets navigate into your 'Desktop' folder, type this:
 ```cmd
 cd Desktop
 ```
@@ -58,7 +64,7 @@ cd Desktop
 when you enter that command you realize this thing change:
 ![[Pasted image 20250207205002.png]]
 
-that means you successfully navigate into your Desktop folder, you can type `dir` command to see what inside your desktop folder, but how are you gonna go back? well here what `..` is, basically it means directory before where you are right now, to go back before your Desktop folder you can type this:
+that means you just successfully navigate into your Desktop folder, you can type `dir` command to see what inside your desktop folder, but how are you gonna go back? well here what `..` is, basically it means directory before where you are right now, to go back before your Desktop folder you can type this:
 ```cmd
 cd ..
 ```
