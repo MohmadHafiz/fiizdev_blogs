@@ -49,9 +49,9 @@ What you just type and see here is list down most of the stuff inside your curre
 so the `<DIR>` that you see are telling you that is directory/folder, after `<DIR>` is the name of folder example '.android' or '.ssh', so the thing that does not have `<DIR>` is a file but it got numbering? and that is the size of the file, after the size of the file is the name of the file, so dates and time are just telling you what time and date this folder or files are modified or created. what is `.` and `..` ?...
 
 
-| Column 1              | Column 2              | Column3               | Column 4  | column 5         |
-| --------------------- | --------------------- | --------------------- | --------- | ---------------- |
-| Date modified/created | Time Modified/created | if `DIR` means folder | file size | file/folder name |
+| Column 1              | Column 2              | Column3               | Column 4  |
+| --------------------- | --------------------- | --------------------- | --------- |
+| Date modified/created | Time Modified/created | if `DIR` means folder | file size |
 
 
 ## Change DIR..
