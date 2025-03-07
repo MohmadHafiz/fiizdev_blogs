@@ -44,7 +44,7 @@ dir
 
 ![[Pasted image 20250207202821.png]]
 
-What you just type and see here is a list of most of the stuff inside your current location, form the output of the command you can see 'drive C', 'Directory', dates, time, and numbers. The 'drive C' shows you what drive are you currently on, 'Directory' also tells you where are you right now in the CMD, and dates, times, and numbers are the stuff that will make you dizzy to look at right now but it is ok don't worry about it.
+What you just type and see here is a list of most of the stuff inside your current location, from the output of the command you can see 'drive C', 'Directory', dates, time, and numbers. The 'drive C' shows you what drive are you currently on, 'Directory' also tells you where are you right now in the CMD, and dates, times, and numbers are the stuff that will make you dizzy to look at right now but it is ok don't worry about it.
 
 So the `<DIR>` that you see is telling you that is a directory/folder, after `<DIR>` is the name of the folder example '.android' or '.ssh', so the thing that does not have `<DIR>` is a file but it got numbering? And that is the size of the file, after the size of the file is the name of the file, so dates and time are just telling you what time and date this folder or files are modified or created. What is `.` and `..` ?...
 
