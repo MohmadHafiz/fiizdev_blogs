@@ -9,7 +9,9 @@ The first thing you need is torrenting software, there are a lot of torrenting s
 - [bittorrent](https://www.bittorrent.com/)
 
 ## Torrent Tracker
+
 Torrent Tracker? 
+
 > *A **torrent tracker** is a specialized server that helps coordinate the distribution of files in a BitTorrent network. It keeps track of peers (users) sharing a specific file and helps them find each other to facilitate faster and more efficient file transfers.* - chatgpt
 
 So what it means is it provides you peer lists and information based on the file that you want to download, by default your torrenting software already has a tracker but adding more trackers will boost and speed up your peer discovery. So your ISP could be blocking the default tracker but not the other trackers that are available, sometimes tracker can be used for finding more peers for files that have less seed.
